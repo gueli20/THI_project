@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18007" start="node49" appversion="6.1.10">
+  <panorama id="node49" hideabout="1">
+    <input leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-83.3664" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node49" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-80.4" skinid="ht_node" url="{node5}" target="" description="" title="Eingang" tilt="-2.5"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-195.950" mode="2" nodechangekeep="0" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="70.560" loop="0">
+        <source url="media/vogelgezwitscher.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.8806" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node5" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-238.41" skinid="ht_node" url="{node4}" target="" description="" title="Cheers" tilt="-7.53"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-149.05" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark" tilt="-8.83"/>
+      <hotspot id="CORONI" pan="-89.33" skinid="ht_node" url="{node37}" target="" description="Ausgangsbeschränkung - Langweile und Wahnsinn&#xa;" title="CORONI" tilt="-20.62"/>
+      <hotspot id=">1,5m&#xa;" pan="-163.89" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-5.77"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-169.75" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-3.73"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-218.14" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-4.59"/>
+      <hotspot id="Point02" pan="-31.18" skinid="ht_node" url="{node49}" target="" description="" title="Ausgang" tilt="0.97"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-292.250" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="79.360" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.4214" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node37" description="" longitude="" customnodeid="" title="" tags="Info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="CORONI" pan="-87.96" skinid="ht_node" url="{node5}" target="" description="" title="CORONI" tilt="-21.76"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-294.550" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="78.650" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-92.537" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node1" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Tanzen unter polizeilicher Aufsicht&#xa;" pan="-152.88" skinid="ht_node" url="{node10}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-12.4"/>
+      <hotspot id=">1,5m&#xa;" pan="-28.04" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-9.94"/>
+      <hotspot id="BITTE (nicht) BERÜHREN!&#xa;" pan="-268.58" skinid="ht_node" url="{node3}" target="" description="" title="BITTE (nicht) BERÜHREN!&#xa;" tilt="-8.48"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-91.85" skinid="ht_node" url="{node39}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-19.1"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-14.99" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-4.45"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-333.44" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-3.54"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-91.160" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="53.660" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-92.1345" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node2" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-152.88" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-8.89"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-28.4" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-8.03"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-269.37" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-8.2"/>
+      <hotspot id=">1,5m&#xa;" pan="-91.79" skinid="ht_node" url="{node40}" target="" description="&#xa;Das Foto zeigt meine Großeltern und mich im Garten hinter ihrem Haus.&#xa;&#xa;In der Zeit als striktes Social-Distancing vor allem zum Schutz der Älteren geboten war, litten meine Großeltern wie vermutlich die meisten Angehörigen der sogenannten „Risikogruppe“ unter den verordneten Kontaktbeschränkungen. &#xa;&#xa;Umso größer war dann die Freude, als man sich nach den Lockerungen wieder sehen durfte. &#xa;&#xa;Da ich in der Corona-Zeit als Krankenpfleger ausgeholfen habe und meine Großeltern nicht gefährden wollte, fanden die Treffen immer draußen in deren Garten statt, natürlich mit Schutzmasken und mit mindestens 1,5m Abstand.&#xa;" title=">1,5m&#xa;" tilt="-17.4"/>
+      <hotspot id="Tanzen unter polizeilicher Aufsicht&#xa;" pan="-165.18" skinid="ht_node" url="{node10}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-5.43"/>
+      <hotspot id="BITTE (nicht) BERÜHREN!&#xa;" pan="-235.49" skinid="ht_node" url="{node3}" target="" description="" title="BITTE (nicht) BERÜHREN!&#xa;" tilt="-6.44"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-300.79" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-6.54"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-338.090" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="67.700" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-87.7326" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node3" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-158.62" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-11.24"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-272.75" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-6.91"/>
+      <hotspot id="BITTE (nicht) BERÜHREN!&#xa;" pan="-86.41" skinid="ht_node" url="{node41}" target="" description="" title="BITTE (nicht) BERÜHREN!&#xa;" tilt="-25.54"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-169.28" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-5.75"/>
+      <hotspot id=">1,5m&#xa;" pan="-241.51" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-5.36"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-222.04" skinid="ht_node" url="{node7}" target="" description="" title="" tilt="-3.4"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-279.670" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="24.070" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-90.1455" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node4" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-19.6" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-10.42"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-157.68" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-11.11"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-272.38" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-5.41"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-84.38" skinid="ht_node" url="{node42}" target="" description="&#xa;Wirt und Gäste freuen sich nach den ersten Lockerungen über das erste Getränk im Biergarten. Trotz der provisorischen Schutzwand kann man zusammen anstoßen und gewinnt ein Stück &quot;alte Realität&quot; zurück während man die neue Situation in geselliger Runde diskutiert.&#xa;" title="Cheers 2.0&#xa;" tilt="-25.98"/>
+      <hotspot id="o. T." pan="-168.98" skinid="ht_node" url="{node9}" target="" description="" title="o. T." tilt="-5.26"/>
+      <hotspot id="CORONI&#xa;" pan="-241.64" skinid="ht_node" url="{node5}" target="" description="" title="CORONI&#xa;" tilt="-6.17"/>
+      <hotspot id=">1,5m&#xa;" pan="-301.58" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-5.58"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-320.33" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-3.31"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-272.410" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="19.340" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-90.4317" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node6" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-20.02" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-10.71"/>
+      <hotspot id="o. T." pan="-159.46" skinid="ht_node" url="{node9}" target="" description="" title="o. T." tilt="-8.79"/>
+      <hotspot id="CORONI&#xa;" pan="-268.02" skinid="ht_node" url="{node5}" target="" description="" title="CORONI&#xa;" tilt="-8.42"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-83.52" skinid="ht_node" url="{node44}" target="" description="&#xa;Auch in den Sparkassen gibt es strenge Regeln und Einschränkungen !&#xa;" title="Gemeinsam da durch&#xa;" tilt="-24.28"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-298.62" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-5.32"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-9.85" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-4.54"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-286.840" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="21.640" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.5059" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node7" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="CORONI&#xa;" pan="-29.66" skinid="ht_node" url="{node5}" target="" description="" title="CORONI&#xa;" tilt="-11.62"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-271.43" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-8.41"/>
+      <hotspot id=">1,5m&#xa;" pan="-151.16" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-9.89"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-88.02" skinid="ht_node" url="{node45}" target="" description="&#xa;Es ist Corona-Zeit. Kaum ein Auto ist auf der sonst so stark befahrenen Regensburger Straße zu sehen. Beim Blick aus dem 4. OG entdecke ich plötzlich, wie das Flickwerk an Asphalt zu leben beginnt. Es sind tierliche Figuren zu erkennen. Ohne die Corona-Zeit zu Hause hätte ich dieses kreative Figurentheater nie wahr genommen.&#xa;" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-13.86"/>
+      <hotspot id="Tanzen unter polizeilicher Aufsicht&#xa;" pan="-170.38" skinid="ht_node" url="{node10}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-3.11"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-163.64" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-4.06"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-303.33" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-5.92"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-203.790" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="62.620" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.5921" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node8" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-159.81" skinid="ht_node" url="{node4}" target="" description="" title="" tilt="-9.98"/>
+      <hotspot id="BITTE (nicht) BERÜHREN!&#xa;" pan="-21.45" skinid="ht_node" url="{node3}" target="" description="" title="BITTE (nicht) BERÜHREN!&#xa;" tilt="-9.79"/>
+      <hotspot id=">1,5m&#xa;" pan="-268.41" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-5.9"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-91.41" skinid="ht_node" url="{node46}" target="" description="&#xa;Mama wo ist meine Maske, ich muss in die Schule??&#xa;&#xa;nun haben auch die Masken der Kinder einen eigenen „Gaderobenplatz“.&#xa;&#xa;…und das Fragen und Suchen ein Ende.&#xa;" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-24.99"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-168.78" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-4.69"/>
+      <hotspot id="CORONI&#xa;" pan="-220.3" skinid="ht_node" url="{node5}" target="" description="" title="CORONI&#xa;" tilt="-4.81"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-236.98" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark" tilt="-3.34"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-300.79" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-5.72"/>
+      <hotspot id="Tanzen unter polizeilicher Aufsicht&#xa;" pan="-321.33" skinid="ht_node" url="{node10}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-5.12"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-271.500" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="25.500" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-90.6374" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node9" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-18.99" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-10.07"/>
+      <hotspot id="CORONI&#xa;" pan="-308.61" skinid="ht_node" url="{node5}" target="" description="" title="CORONI&#xa;" tilt="-7.54"/>
+      <hotspot id="o. T.&#xa;" pan="-86.02" skinid="ht_node" url="{node47}" target="" description="" title="o. T.&#xa;" tilt="-21.87"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-10.05" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-4.94"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-312.720" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="20.580" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.4833" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="node10" description="" longitude="" customnodeid="" title="" tags="360"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-26.68" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-9.91"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-323.75" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-5.62"/>
+      <hotspot id=">1,5m&#xa;" pan="-14.44" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-4.1"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-9.23" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-2.28"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-333.43" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-2.89"/>
+      <hotspot id="Point01" pan="-85.26" skinid="ht_node" url="{node50}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-22.31"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-306.160" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="33.290" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-94.1604" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node39" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Zwischen Hoffnung und Bangen!&#xa;" pan="-92.5" skinid="ht_node" url="{node1}" target="" description="" title="Zwischen Hoffnung und Bangen!&#xa;" tilt="-21.79"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-344.920" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="73.430" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.2485" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node40" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id=">1,5m&#xa;" pan="-90.62" skinid="ht_node" url="{node2}" target="" description="" title=">1,5m&#xa;" tilt="-26.29"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-323.730" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="64.490" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-89.0154" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node41" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="BITTE (nicht) BERÜHREN!&#xa;" pan="-84.9" skinid="ht_node" url="{node3}" target="" description="" title="BITTE (nicht) BERÜHREN!&#xa;" tilt="-25.5"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-272.120" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="20.290" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-83.9093" projection="4" fov="70" tilt="-1.83058"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node42" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Cheers 2.0&#xa;" pan="-81.57" skinid="ht_node" url="{node4}" target="" description="" title="Cheers 2.0&#xa;" tilt="-32.27"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-271.000" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="22.660" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <input leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-82.1253" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node44" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Gemeinsam da durch&#xa;" pan="-83.73" skinid="ht_node" url="{node6}" target="" description="" title="Gemeinsam da durch&#xa;" tilt="-32.29"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-261.560" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="19.940" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-87.1863" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node45" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Leere Straßen werden zum Tierpark&#xa;" pan="-87.07" skinid="ht_node" url="{node7}" target="" description="" title="Leere Straßen werden zum Tierpark&#xa;" tilt="-22"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-228.280" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="75.740" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-95.3109" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node46" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Masken&quot;Ordnung&quot;&#xa;" pan="-90.28" skinid="ht_node" url="{node8}" target="" description="" title="Masken&quot;Ordnung&quot;&#xa;" tilt="-33.01"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-278.600" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="23.020" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <input leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-87.3152" projection="4" fov="70" tilt="-2.50765"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node47" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="o. T.&#xa;" pan="-85.2" skinid="ht_node" url="{node9}" target="" description="" title="o. T.&#xa;" tilt="-30.15"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-312.070" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="17.120" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingpitch="0" height="2048" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-90.1112" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="24.11.2020 17:08" copyright="" nodeid="node50" description="" longitude="" customnodeid="" title="" tags="360-info"/>
+    <hotspots wordwrap="1" width="240" height="40">
+      <label wordwrap="1" width="240" textcolor="0x343434" textalpha="1" borderalpha="1" borderradius="1" height="40" backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" border="0" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-88.31" skinid="ht_node" url="{node10}" target="" description="" title="Tanzen unter polizeilicher Aufsicht&#xa;" tilt="-22.76"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="Element01" pan="-346.800" mode="2" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000" field="90.000" startmutedmobile="0" level="1.000" tilt="49.010" loop="0">
+        <source url="media/backgorund.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomout="0" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" heading="0" info="" comment="" latitude="" author="" datetime="" copyright="" nodeid="master" description="" longitude="" customnodeid="" title="" tags=""/>
+  </masternode>
+</tour>
